@@ -1,24 +1,26 @@
 {
-	"name": "ommu/applify",
-	"description": "Applify - App Landing Page for Ommu Platform",
+	"name": "ommu/analog-directory",
+	"description": "Analog Directory Listing Multipurpose Responsive + RTL Website",
 	"keywords": [
 		"theme",
 		"frontend",
+		"directory",
+		"maps",
 		"ommu",
 		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/applify",
+	"homepage": "https://github.com/OmmuThemes/analog-directory",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/applify/issues",
-		"wiki": "https://github.com/OmmuThemes/applify/wiki",
-		"source": "https://github.com/OmmuThemes/applify"
+		"issues": "https://github.com/OmmuThemes/analog-directory/issues",
+		"wiki": "https://github.com/OmmuThemes/analog-directory/wiki",
+		"source": "https://github.com/OmmuThemes/analog-directory"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/applify.git"
+		"url": "https://github.com/OmmuThemes/analog-directory.git"
 	},
 	"authors": [
 		{
@@ -28,8 +30,8 @@
 			"role": "Developer"
 		},
 		{
-			"name": "Codeytech",
-			"homepage": "https://themeforest.net/user/codeytech",
+			"name": "AnalogLife",
+			"homepage": "https://www.templatemonster.com/authors/59e9fb14d8c1c/",
 			"role": "Creator"
 		}
 	],
