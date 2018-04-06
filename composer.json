@@ -7,20 +7,19 @@
 		"directory",
 		"maps",
 		"ommu",
-		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/analog-directory",
+	"homepage": "https://github.com/ommu/theme-analog-directory",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/analog-directory/issues",
-		"wiki": "https://github.com/OmmuThemes/analog-directory/wiki",
-		"source": "https://github.com/OmmuThemes/analog-directory"
+		"issues": "https://github.com/ommu/theme-analog-directory/issues",
+		"wiki": "https://github.com/ommu/theme-analog-directory/wiki",
+		"source": "https://github.com/ommu/theme-analog-directory"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/analog-directory.git"
+		"url": "https://github.com/ommu/theme-analog-directory.git"
 	},
 	"authors": [
 		{
