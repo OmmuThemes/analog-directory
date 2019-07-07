@@ -1,17 +1,20 @@
 {
 	"name": "ommu/analog-directory",
 	"description": "Analog Directory Listing Multipurpose Responsive + RTL Website",
+	"type": "ommu-theme",
 	"keywords": [
 		"theme",
-		"frontend",
+		"analog-directory",
+		"front-template",
+		"bootstrap4",
 		"directory",
 		"maps",
 		"ommu",
-		"ommu platform"
+		"ommu-platform",
+		"yii2"
 	],
-	"homepage": "https://github.com/ommu/theme-analog-directory",
-	"type": "ommu-theme",
 	"license": "Apache-2.0",
+	"homepage": "https://github.com/ommu/theme-analog-directory",
 	"support": {
 		"issues": "https://github.com/ommu/theme-analog-directory/issues",
 		"wiki": "https://github.com/ommu/theme-analog-directory/wiki",
@@ -25,7 +28,7 @@
 		{
 			"name": "Putra Sudaryanto",
 			"email": "putra@sudaryanto.id",
-			"homepage": "https://putra.sudaryanto.id",
+			"homepage": "https://sudaryanto.id",
 			"role": "Developer"
 		},
 		{
@@ -35,10 +38,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.2",
-		"oomphinc/composer-installers-extender": "^1.0",
-		"yiisoft/yii": "1.1.*"
-	},
-	"require-dev": {
+		"php": "~7.0",
+		"yiisoft/yii2": "~2.0.14"
 	}
 }
